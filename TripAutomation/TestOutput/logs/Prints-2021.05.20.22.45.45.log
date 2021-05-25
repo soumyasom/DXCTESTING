@@ -1,0 +1,33 @@
+2021-05-20 22:45:46.003 [main] DEBUG com.tripadvisor.base.BaseUI - Opening browser
+2021-05-20 22:45:56.901 [main] INFO  com.tripadvisor.base.BaseUI - Opened browser
+2021-05-20 22:45:56.901 [main] DEBUG com.tripadvisor.base.BaseUI - Opening URL
+2021-05-20 22:46:40.526 [main] INFO  com.tripadvisor.base.BaseUI - Opened URL
+2021-05-20 22:46:40.543 [main] DEBUG com.tripadvisor.pages.HomePage - Clicking on Holiday Homes button
+2021-05-20 22:46:40.706 [main] INFO  com.tripadvisor.pages.HomePage - Clicked on Holiday Homes button
+2021-05-20 22:46:40.707 [main] DEBUG com.tripadvisor.pages.HomePage - Searching for location: Nairobi
+2021-05-20 22:47:17.992 [main] INFO  com.tripadvisor.pages.HomePage - Searched for location: Nairobi
+2021-05-20 22:47:18.015 [main] DEBUG com.tripadvisor.pages.LocationResultsPage - Clicking on location
+2021-05-20 22:47:18.256 [main] INFO  com.tripadvisor.pages.LocationResultsPage - Clicked on location
+2021-05-20 22:47:18.258 [main] DEBUG com.tripadvisor.pages.LocationResultsPage - Switching to new tab
+2021-05-20 22:47:18.283 [main] INFO  com.tripadvisor.pages.LocationResultsPage - Switched to new tab
+2021-05-20 22:48:09.322 [main] DEBUG com.tripadvisor.pages.LocationResultsPage - Clicking on Holiday Homes button
+2021-05-20 22:48:44.945 [main] INFO  com.tripadvisor.pages.LocationResultsPage - Clicked on Holiday Homes button
+2021-05-20 22:48:44.947 [main] DEBUG com.tripadvisor.pages.HolidayHomesPage - Clicking on 'Cruises' button
+2021-05-20 22:48:53.600 [main] INFO  com.tripadvisor.pages.HolidayHomesPage - Clicked on 'Cruises' button
+2021-05-20 22:48:53.613 [main] DEBUG com.tripadvisor.pages.CruisesPage - Getting title of Cruises page
+2021-05-20 22:48:53.624 [main] INFO  com.tripadvisor.pages.CruisesPage - Title of Cruises page is: Cruises - Cheap Cruise Holidays: 2021 Destinations & Ports - Tripadvisor
+2021-05-20 22:48:55.529 [main] DEBUG com.tripadvisor.base.BaseUI - Opening browser
+2021-05-20 22:49:00.947 [main] INFO  com.tripadvisor.base.BaseUI - Opened browser
+2021-05-20 22:49:00.947 [main] DEBUG com.tripadvisor.base.BaseUI - Opening URL
+2021-05-20 22:49:22.410 [main] INFO  com.tripadvisor.base.BaseUI - Opened URL
+2021-05-20 22:49:22.412 [main] DEBUG com.tripadvisor.pages.HomePage - Clicking on Holiday Homes button
+2021-05-20 22:49:22.542 [main] INFO  com.tripadvisor.pages.HomePage - Clicked on Holiday Homes button
+2021-05-20 22:49:22.542 [main] DEBUG com.tripadvisor.pages.HomePage - Searching for location: dummylocation
+2021-05-20 22:49:39.665 [main] INFO  com.tripadvisor.pages.HomePage - Searched for location: dummylocation
+2021-05-20 22:49:39.673 [main] DEBUG com.tripadvisor.pages.LocationResultsPage - Getting invalid location message
+2021-05-20 22:49:39.718 [main] INFO  com.tripadvisor.pages.LocationResultsPage - Invalid location message received
+2021-05-20 22:49:52.996 [main] DEBUG com.tripadvisor.pages.HomePage - Clicking on Holiday Homes button
+2021-05-20 22:49:53.179 [main] INFO  com.tripadvisor.pages.HomePage - Clicked on Holiday Homes button
+2021-05-20 22:49:53.179 [main] DEBUG com.tripadvisor.pages.HomePage - Searching for location: Nairobi
+2021-05-20 22:49:57.551 [main] INFO  com.tripadvisor.pages.HomePage - Searched for location: Nairobi
+2021-05-20 22:50:02.463 [main] ERROR com.tripadvisor.pages.HomePage - Failed to wait for document to be ready

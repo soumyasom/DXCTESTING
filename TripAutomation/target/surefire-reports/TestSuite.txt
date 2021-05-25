@@ -1,0 +1,12 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 23, Failures: 2, Errors: 0, Skipped: 21, Time elapsed: 47.352 s <<< FAILURE! - in TestSuite
+setUp(com.tripadvisor.tests.CruisesTest)  Time elapsed: 10.953 s  <<< FAILURE!
+java.lang.NullPointerException: Cannot invoke "com.aventstack.extentreports.ExtentTest.log(com.aventstack.extentreports.Status, String)" because "com.tripadvisor.base.BaseUI.logger" is null
+	at com.tripadvisor.tests.CruisesTest.setUp(CruisesTest.java:31)
+
+invalidLocationTest(com.tripadvisor.tests.HolidayHomesTest)  Time elapsed: 30.262 s  <<< FAILURE!
+java.lang.AssertionError: Test case failed: Expected condition failed: waiting for element to be clickable: By.xpath: //*[@id="lithium-root"]/main/div[1]/div[2]/div/div/div[2]/a/span/span[1] (tried for 30 second(s) with 500 milliseconds interval)
+	at com.tripadvisor.tests.HolidayHomesTest.invalidLocationTest(HolidayHomesTest.java:40)
+
